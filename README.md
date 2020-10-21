@@ -1,5 +1,7 @@
 # Numerical Methods
 
+Numerical Methods is the subject concerned with the construction, analysis and use of Algorithms for numerical solution of mathematical problems to given degree of numerical accuracy.
+
 * A Program to find root of equation using **Method of Bisection**.
   
 * A Program to find root of equation using **Newton Raphson method**.
